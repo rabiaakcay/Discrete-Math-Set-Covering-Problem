@@ -1,0 +1,10 @@
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\bin\Debug\KapsamaProblemi.exe.config
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\bin\Debug\KapsamaProblemi.exe
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\bin\Debug\KapsamaProblemi.pdb
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.csprojResolveAssemblyReference.cache
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.Form1.resources
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.Properties.Resources.resources
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.csproj.GenerateResource.Cache
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.csproj.CoreCompileInputs.cache
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.exe
+C:\Users\akcay\source\repos\KapsamaProblemi\KapsamaProblemi\obj\Debug\KapsamaProblemi.pdb
